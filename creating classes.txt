@@ -1,5 +1,0 @@
-creating classes
-
-pruduct class - product that may be purchased
-attirbutes - properties of the class
-methods - special functions
